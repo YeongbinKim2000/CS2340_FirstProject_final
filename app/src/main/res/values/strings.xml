@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS2340_FirstProject</string>
+    <string name="title_App">College Scheduler App</string>
+    <string name="home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
